@@ -8,7 +8,7 @@ Tester l'integration du framework w2ui version es6
 Créer un projet angular avec la commande
 
 
-<sup> ng new </sup>	
+<sup> ng new nomdDuProjet</sup>	
 
 Installation de w2ui
 
