@@ -10,7 +10,7 @@ Créer un projet angular avec la commande
 
 <sup> ng new </sup>	
 
-
-\newline
 Installation de w2ui
+
+
 <sup> npm install w2ui</sup>	
