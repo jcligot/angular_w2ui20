@@ -5,7 +5,7 @@ Tester l'integration du framework w2ui version es6
 # Prérequis pour le Test:
 
 
-Créer un projet angular avec la commande
+Créer un projet angular avec la commande dans un projet Angular
 
 
 <sup> ng new nomdDuProjet</sup>	
