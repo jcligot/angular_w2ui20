@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { w2form, query } from 'w2ui/w2ui-2.0.js';
+import { w2form, query } from '../../../node_modules/w2ui/w2ui-2.0.js';
 @Component({
   selector: 'app-form',
   templateUrl: './form.component.html',

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
- import { w2grid } from 'w2ui/w2ui-2.0.js';
+ import { w2grid } from '../../../node_modules/w2ui/w2ui-2.0.js';
+ 
 
 
 
