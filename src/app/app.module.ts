@@ -3,12 +3,16 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { Gridw2uiComponent } from './gridw2ui/gridw2ui.component';
+import { GridComponent } from './grid/grid.component';
+import { FormComponent } from './form/form.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    Gridw2uiComponent
+    GridComponent,
+    FormComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

@@ -1,16 +1,16 @@
 import { Component, OnInit } from '@angular/core';
- import { w2grid } from '../../../node_modules/w2ui/w2ui-2.0.js';
+ import { w2grid } from 'w2ui/w2ui-2.0.js';
 
 
 
 @Component({
-  selector: 'app-gridw2ui',
-  templateUrl: './gridw2ui.component.html',
-  styleUrls: ['./gridw2ui.component.css'],
+  selector: 'app-grid',
+  templateUrl: './grid.component.html',
+  styleUrls: ['./grid.component.css'],
  
 })
 
-export class Gridw2uiComponent implements OnInit {
+export class GridComponent implements OnInit {
   ngOnInit(): void {
     console.log('ok');
 
