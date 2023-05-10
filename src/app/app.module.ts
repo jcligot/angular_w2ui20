@@ -7,7 +7,6 @@ import { GridComponent } from './grid/grid.component';
 import { FormComponent } from './form/form.component';
 import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -20,7 +19,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgbModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]
